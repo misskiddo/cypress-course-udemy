@@ -1,0 +1,20 @@
+{
+  "name": "cypress-course-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "e2e"
+  ],
+  "author": "Toni Cabrera",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.4",
+    "prettier": "^2.6.2"
+  }
+}
